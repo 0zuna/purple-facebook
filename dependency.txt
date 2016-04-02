@@ -1,0 +1,4 @@
+glib-2.0
+json-glib-1.0
+libjson-glib-dev
+libpurple-dev
